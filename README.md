@@ -2,7 +2,7 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Lobster&size=32&lines=Hi+there.I'm+Fatih;Welcome+to+my+github+page)](https://git.io/typing-svg)
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f.abdioglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihabdioglu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@f.abdioglu52) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihabdioglu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@f.abdioglu52) 
 ## Languages & Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=py,aws,linux,docker,jenkins,kubernetes,git,html,css,ansible,sqlite,bash,vscode)](https://skills.thijs.gg)
 
