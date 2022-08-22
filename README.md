@@ -4,7 +4,7 @@
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihabdioglu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@f.abdioglu52) 
 ## Languages & Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=py,aws,linux,docker,jenkins,flask,kubernetes,git,ansible,sqlite,bash,grafana,html,css,vscode,azure)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,aws,linux,docker,jenkins,flask,kubernetes,git,ansible,sqlite,bash,grafana,html,css,vscode,azure,github)](https://skills.thijs.gg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
 ## 📊 GitHub Stats:
