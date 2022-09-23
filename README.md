@@ -22,8 +22,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+## Snake eating my contribution graph
+![snake gif](https://github.com/fatihabdioglu/fatihabdioglu/blob/output/github-contribution-grid-snake.gif)
 
 ![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
+
 ## 📊 GitHub Stats:
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g" align="right" width="340" height="200">
 
@@ -31,4 +34,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fatihabdioglu&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihabdioglu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-
