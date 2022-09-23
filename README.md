@@ -15,4 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihabdioglu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-<img src="https://raw.githubusercontent.com/fatihabdioglu/fatihabdioglu/blob/output/snake.svg" alt="Snake animation" />
