@@ -27,7 +27,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g" align="right" width="340" height="200">
 
 ![](https://github-readme-stats.vercel.app/api?username=fatihabdioglu&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
