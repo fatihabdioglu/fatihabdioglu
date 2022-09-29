@@ -22,7 +22,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-## Snake eating my contribution graph!
+## Snake eating my contribution graph!!
 ![snake gif](https://github.com/fatihabdioglu/fatihabdioglu/blob/output/github-contribution-grid-snake.gif)
 
 ![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
