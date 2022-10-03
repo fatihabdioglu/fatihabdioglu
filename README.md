@@ -1,9 +1,6 @@
 <img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=25&pause=1000&width=430&height=45&lines=hi+there+%F0%9F%96%90+;my+name+is+fatih;welcome+to+my+github+page)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=25&pause=1000&width=435&lines=hi+there+%F0%9F%96%90+my+name+is+fatih;welcome+to+my+github+page)](https://git.io/typing-svg)
 ## Socials:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihabdioglu) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f.abdioglu) 
 ## Languages & Tools:
