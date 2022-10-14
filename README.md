@@ -27,7 +27,6 @@
 ![snake gif](https://github.com/fatihabdioglu/fatihabdioglu/blob/output/github-contribution-grid-snake.gif)
 
 ![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
-
 ## GitHub Stats:
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g" align="right" width="340" height="200">
 
