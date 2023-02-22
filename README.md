@@ -28,10 +28,6 @@
 ## GitHub Stats:
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g" align="right" width="340" height="200">
 
-## Snake's eating my contributes
-<img src="https://raw.githubusercontent.com/fatihabdioglu/fatihabdioglu/blob/output/snake.svg" alt="Snake animation" />
-
-###
 ![Fatih's github stats](https://github-readme-stats.vercel.app/api?username=fatihabdioglu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihabdioglu&layout=compact)](https://github.com/fatihabdioglu/github-readme-stats)
 
