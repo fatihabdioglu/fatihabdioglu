@@ -25,10 +25,19 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/119cfcc41eae1b1499278847a5b079689a2ba5ff4d87470188ba0b1c6e3ab516/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313134616362616262326136646666326664663364336231333865383963386632356362316661393431267269643d67697068792e6769662663743d67"  />
+</div>
+
 ![Snake animation](https://github.com/fatihabdioglu/fatihabdioglu/blob/output/github-contribution-grid-snake.svg)
 ## GitHub Stats:
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g" align="right" width="340" height="200">
 
-![Fatih's github stats](https://github-readme-stats.vercel.app/api?username=fatihabdioglu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihabdioglu&layout=compact)](https://github.com/fatihabdioglu/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fatihabdioglu" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fatihabdioglu" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=f.abdioglu" alt="Layout with last medium posts"  />
+</div>
 
