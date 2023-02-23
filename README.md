@@ -8,7 +8,7 @@
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,py,linux,jenkins,ansible,bash,grafana,prometheus,nginx,flask,maven,spring,dynamodb,mysql,selenium,vscode,sqlite,html,css,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,py,linux,jenkins,ansible,bash,maven,spring,grafana,prometheus,nginx,flask,dynamodb,mysql,selenium,vscode,sqlite,html,css,vim" />
   </a>
 </p>
 
