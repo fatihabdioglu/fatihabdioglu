@@ -1,4 +1,4 @@
-<img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-1d32667bf12f2ff2b6a4efab8e8a6806" align="right" width="350" height="200">
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=EAC000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Fatih;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 <h2> Connect with me </h2>
