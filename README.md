@@ -1,6 +1,7 @@
-<img src="https://qph.cf2.quoracdn.net/main-qimg-1d32667bf12f2ff2b6a4efab8e8a6806" align="center" width="350" height="200">
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=C5F776&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Fatih;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+
+<img src="https://qph.cf2.quoracdn.net/main-qimg-1d32667bf12f2ff2b6a4efab8e8a6806" align="center" width="250" height="140">
 <h2> Connect with me </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihabdioglu) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f.abdioglu) 
